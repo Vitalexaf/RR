@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: Radio Record (AAC 96)
-#EXTINF: -1 tvg-id="Record" group-title="HOUSE;POP" radio="true" tvg-logo="https://www.radiorecord.ru/upload/stations_images/record_image600_white_fill.png",Record
+#EXTINF: -1 tvg-id="Record" group-title="HOUSE;POP" radio="true" tvg-logo="https://www.radiorecord.ru/upload/stations_images/record_image600_white_fill.png",Record | Record Radio
 https://radiorecord.hostingradio.ru/rr_main96.aacp
 #EXTINF: -1 tvg-id="Russian Mix" group-title="POP;RUSSIAN" radio="true" tvg-logo="https://www.radiorecord.ru/upload/stations_images/rus_image600_white_fill.png",Russian Mix
 https://radiorecord.hostingradio.ru/rus96.aacp
